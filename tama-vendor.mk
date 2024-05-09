@@ -46,4 +46,5 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tama/proprietary/vendor/lib64/libllvm-qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libllvm-qcom.so \
     vendor/sony/tama/proprietary/vendor/lib64/librs_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librs_adreno.so \
     vendor/sony/tama/proprietary/vendor/lib64/librs_adreno_sha1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librs_adreno_sha1.so \
-    vendor/sony/tama/proprietary/vendor/lib64/libcld80211.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcld80211.so
+    vendor/sony/tama/proprietary/vendor/lib64/libcld80211.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcld80211.so \
+    vendor/sony/tama/proprietary/vendor/bin/cnss-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/cnss-daemon

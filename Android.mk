@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(SOMC_PLATFORM),tama)
+ifeq ($(TARGET_DEVICE),tama)
 
 endif
